@@ -1,2 +1,2 @@
 # cane
-A funny "troll" command for Linux Shell
+"Cane Pofuente" command for Linux Shell inspired by "sl" command of  mtoyoda / sl. 
