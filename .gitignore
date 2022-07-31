@@ -10,3 +10,9 @@ compile_commands.json
 CTestTestfile.cmake
 _deps
 .DS_Store
+Code/.vscode/configurationCache.log
+Code/.vscode/dryrun.log
+Code/.vscode/settings.json
+Code/.vscode/targets.log
+Code/.vscode/tasks.json
+Code/cane
