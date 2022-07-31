@@ -1,7 +1,7 @@
 /*
 =========================================
 * "Cane Pofuente" command for Linux Shell. 
-* inspired by sl command of  mtoyoda / sl. 
+* Inspired by "sl" command of  mtoyoda / sl. 
 * All right reserved to mtoyoda.
 *
 * Alteration by Rombo
@@ -10,11 +10,10 @@
 
 /*Define Properties*/
 #define HEIGHT 28
-#define BODY 15 /*(Funel)*/
+#define BODY 15
 #define LENGTH 100
 #define PATTERNS 4
 
-/*Define images*/
 #define BODY01 "                                    ....                                                            "
 #define BODY02 "                         ..........'''''...                                                         "
 #define BODY03 "                      ...'',;::;,''''''''.........                                                  "
@@ -31,7 +30,6 @@
 #define BODY14 "                         ..'',;:ccc::;,''''..........      .................................        "
 #define BODY15 "                         ...'''',,,'''''''''''''...........'''''''''''''...........'''''''''..      "
 
-/*Define frames*/
 #define END101 "                         ..'''''''''''''''''''''''''''''''''''''''''''''''''.................       "
 #define END102 "                        ..'''''''''''''''''''''''''''''''''''''''''''''''''''''....                 "
 #define END103 "                       ...''''''''''''''''''''''''''''''''''''''''''''''''''''''...                 "

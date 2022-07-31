@@ -1,7 +1,7 @@
 /*
 =========================================
 * "Cane Pofuente" command for Linux Shell. 
-* inspired by sl command of  mtoyoda / sl. 
+* Inspired by "sl" command of  mtoyoda / sl. 
 * All right reserved to mtoyoda.
 *
 * Alteration by Rombo
